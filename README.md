@@ -1,2 +1,2 @@
 # JSX-Exercises
-Some exercises where I practice making and creating React/JSX components.
+Some exercises where I practice making and creating React components using JSX.
